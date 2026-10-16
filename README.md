@@ -1,6 +1,9 @@
 # ESP32 PIR Security Camera
 
-Simple PIR triggered security camera based on the ESP-cam module
+Simple PIR triggered security camera based on the ESP-cam module.
+
+> [!WARNING]
+> This is an insecure implementation which shouldn't be used outside of a test environment.
 
 ## Requirements
 
